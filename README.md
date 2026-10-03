@@ -124,10 +124,3 @@ flutter build apk --release
 
 ---
 
-## 6. Ideas para extender (funcionalidades adicionales)
-
-- ⭐ Favoritos: persistir IDs de sismos marcados con `shared_preferences`.
-- 🔔 Notificaciones push cuando ocurra un sismo sobre cierta magnitud.
-- 🌗 Modo oscuro real (ya existe el switch en Ajustes; falta el `ThemeData.dark()`).
-- 🗂️ Caché local (Hive/SQLite) para funcionamiento offline.
-- 📈 Selector de periodo (hora/día/semana/mes) conectado a `ApiConstants`.
